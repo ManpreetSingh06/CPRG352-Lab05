@@ -3,7 +3,7 @@ package models;
 
 /**
  *
- * @author Monty
+ * @author Manpreet
  */
 public class User {
     private String username;
